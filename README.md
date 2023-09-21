@@ -1,8 +1,6 @@
 # smart-brain-api-Back-End
 FINAL PROJECT: smart-brain-api back-end server in udemy The Complete Web Developer in 2023: Zero to Mastery 
 
-Final project for ZTM course
-
 Clone this repo
 1. Run npm install
 2. Run npm start
