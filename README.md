@@ -1,6 +1,8 @@
 # smart-brain-api-Back-End
 FINAL PROJECT: smart-brain-api-Back-End-server in udemy The Complete Web Developer in 2023: Zero to Mastery 
 
+jpg 확장자 이미지의 ai 얼굴인식 프로젝트
+
 Clone this repo
 1. Run npm install
 2. Run npm start
